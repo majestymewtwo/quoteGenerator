@@ -24,10 +24,10 @@ button{
     padding: 0 4%;
     height: 50px;
     position: absolute;
-    width: 30%;
+    width: auto;
     bottom: 4%;
-    left: 35%;
-    right: 35%;
+    left: 30%;
+        right: 30%;
 }
 button:hover{
     background-image: linear-gradient(to left, #6F38C5, #87A2FB);
@@ -59,7 +59,7 @@ footer{
     color: #6F38C5;
 }
 .person{
-    font-size: 1.8rem;
+    font-size: 1.2rem;
 }
 
 @media (min-width: 1080px){
